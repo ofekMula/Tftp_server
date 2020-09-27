@@ -23,3 +23,7 @@ tftp server written in python - based on RFC 1350 (octet mode only):https://tool
     e.get [file path]
 
 ## What I learned
+* UDP protocol
+* Implement FTP protocol based on published RFC protocol.
+* Socket programming in python
+* with statement
